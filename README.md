@@ -1,4 +1,4 @@
-# v1
+# POV RGB v1
 POV RGB, versión 1.
 Varita de 8 LEDs RGB <3
 
