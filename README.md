@@ -5,6 +5,7 @@ Varita de 8 LEDs RGB <3
 Proyecto para realizar persistencia de la visión (POV) con una placa a medida con 8 LEDs RGB controlados con Arduino Nano.
 
 Funcionamiento
+
 Una hilera de luces de LED se encienden y apagan a alta frecuencia en base a secuencias de bytes enviadas por un microcontrolador (Arduino) encargado de controlar dicha rutina. Al mover el dispositivo con rapidez o al ser capturado con una cámara, utilizando larga exposición, se pueden percibir imágenes y textos.
 
 Software
