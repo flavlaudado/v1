@@ -28,5 +28,6 @@ Registro y pruebas
 
 ![alt text](https://github.com/povrgb/v1/blob/main/Software/img/pruebas0.JPG)
 ![alt text](https://github.com/povrgb/v1/blob/main/Software/img/taller1.jpg)
-
-https://github.com/povrgb/v1/blob/main/Software/img/taller1.jpg
+![alt text](https://github.com/povrgb/v1/blob/main/Software/img/taller2.jpg)
+![alt text](https://github.com/povrgb/v1/blob/main/Software/img/taller3.jpg)
+![alt text](https://github.com/povrgb/v1/blob/main/Software/img/taller4.JPG)
